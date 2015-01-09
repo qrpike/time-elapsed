@@ -1,0 +1,25 @@
+{
+  "name": "time-elapsed",
+  "version": "0.0.0",
+  "description": "Easily measure the amount of time that has elapsed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qrpike/time-elapsed.git"
+  },
+  "keywords": [
+    "time",
+    "timer",
+    "duration",
+    "benchmark"
+  ],
+  "author": "Quinton Pike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qrpike/time-elapsed/issues"
+  },
+  "homepage": "https://github.com/qrpike/time-elapsed"
+}
