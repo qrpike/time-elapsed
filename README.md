@@ -13,7 +13,9 @@ Easily measure the time that has elapsed.
     
     // Wait a duration of time:
     setTimeout(function(){
+    
       // See how many Milliseconds it has been:
       console.log('Time elapsed:', timer.timeElapsed());
+      
     }, 500);
 
