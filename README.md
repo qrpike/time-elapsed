@@ -1,7 +1,7 @@
 # Time Elapsed
 Easily measure the time that has elapsed.
 
-  npm install time-elapsed
+  `npm install time-elapsed`
 
 # To use:
 
